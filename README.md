@@ -1,165 +1,131 @@
-<!-- Animated Header -->
+<!-- ========================================= -->
+<!--                HEADER                    -->
+<!-- ========================================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=React%20Learnings&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:2c5364&text=React%20Ecosystem%20Vault&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Complete+React+Ecosystem+Notes;Core+Concepts+to+Advanced+Patterns;Modern+Frontend+Developer+Guide;Curated+by+Mihir" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Complete+React+Learning+Repository;From+Core+Concepts+to+Advanced+Patterns;Modern+Frontend+Architecture;Built+by+Mihir+Patel" />
 </p>
 
 ---
 
-# 📘 About This Repository
+# 🧠 About This Repository
 
-This repository is a **complete structured knowledge vault** of the modern React ecosystem.
+Welcome to my **React Ecosystem Knowledge Vault**.
 
-It contains:
-- Core React concepts
-- Hooks deep dive
-- State Management
-- UI Libraries
-- Animations
-- API handling
-- Performance & Reconciliation
-- Advanced ecosystem tools
+This repository contains structured, production-level notes covering:
 
-Built to become a **go-to reference for React developers.**
+- ⚛️ React Core
+- 🎣 Hooks (Deep Dive)
+- 🧩 State Management
+- 🎨 UI Frameworks
+- 🎬 Animations
+- 🌐 API Handling
+- 🧊 3D Rendering
+- 🚀 Performance & Reconciliation
+
+This is not basic documentation.  
+This is **developer-grade architecture understanding.**
 
 ---
 
-# 🧠 Core Concepts Covered
+# 🛠 Tech Ecosystem Covered
 
-## ⚛️ React Core
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,threejs" />
+
 </p>
 
-- React Core Basics
-- JSX
+---
+
+# ⚛️ React Core
+
+- JSX Architecture
+- Component Patterns
 - Virtual DOM
-- Reconciliation
-- Component Architecture
+- Reconciliation Algorithm
+- Rendering Lifecycle
+- Performance Optimization
 
 ---
 
-## 🎣 React Hooks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-</p>
+# 🎣 React Hooks Mastery
 
 - useState
 - useEffect
+- useRef
+- useMemo
+- useCallback
 - useContext
-- useReducer
 - Custom Hooks
-- Hook Patterns
+- Hook Patterns & Pitfalls
 
 ---
 
 # 🧩 State Management
 
-## 🔴 Redux Toolkit (RTK)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50"/>
-</p>
-
-- Store setup
+## 🔴 Redux Toolkit
+- Store Setup
 - Slices
 - Middleware
 - Async Thunks
-- Advanced Patterns
+- Scalable Architecture
 
 ## 🐻 Zustand
-<p align="left">
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/logo192.png" width="50"/>
-</p>
-
-- Lightweight state management
-- Store creation
-- Middleware usage
-- Performance optimization
+- Lightweight Stores
+- Selectors
+- Middleware
+- Performance Patterns
 
 ## 🔄 TanStack Query
-<p align="left">
-  <img src="https://tanstack.com/assets/logo-color-100w-br5_Ikqp.png" width="50"/>
-</p>
-
-- Server state management
-- Caching strategies
-- Query invalidation
-- Mutations
+- Server State
+- Caching
+- Optimistic Updates
+- Query Invalidation
 
 ---
 
-# 🎨 UI Libraries Covered
+# 🎨 UI Libraries
 
-## 🧱 Material UI
-<p align="left">
-  <img src="https://mui.com/static/logo.png" width="50"/>
-</p>
-
-## 🌈 Chakra UI
-<p align="left">
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" width="50"/>
-</p>
-
-## 🧩 Radix UI
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" width="50"/>
-</p>
-
-## 💎 shadcn/ui
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50"/>
-</p>
-
-## 🌬 Tailwind CSS
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" width="120"/>
-</p>
+| Library | Purpose |
+|----------|---------|
+| Material UI | Enterprise UI |
+| Chakra UI | Accessible Components |
+| Radix UI | Headless Primitives |
+| shadcn/ui | Modern Component System |
+| Tailwind CSS | Utility-first Styling |
 
 ---
 
-# 🎞 Animations
+# 🎬 Animations
 
-## 🎬 Framer Motion
-<p align="left">
-  <img src="https://framerusercontent.com/images/3cTz7kRXKuX3sX5Yucs5cjox96E.png" width="50"/>
-</p>
-
-## 🟢 GSAP
-<p align="left">
-  <img src="https://greensock.com/uploads/monthly_2021_10/gsap-logo.svg.38b7fa4beffb6cba6f3c3d21f2f87b5a.svg" width="80"/>
-</p>
+- Framer Motion
+- GSAP
+- Anime.js
 
 ---
 
-# 🌐 Networking & API
+# 🌐 Networking
 
-## 📡 Axios
-<p align="left">
-  <img src="https://axios-http.com/assets/logo.svg" width="80"/>
-</p>
-
-- HTTP Client
+- Axios
 - Interceptors
-- Error Handling
 - API Structuring
+- Error Handling Patterns
 
 ---
 
-# 🎮 3D & Advanced Rendering
+# 🧊 3D & Rendering
 
-## 🧊 Three.js
-<p align="left">
-  <img src="https://threejs.org/files/favicon.ico" width="50"/>
-</p>
-
-- WebGL rendering
-- 3D Models (GLTF/GLB)
-- Animations
-- Scene Management
+- Three.js
+- GLTF / GLB Models
+- Scene Graph
+- Camera Control
+- WebGL Optimization
 
 ---
 
-# 📂 Repository Structure
+# 📁 Repository Structure
