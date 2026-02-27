@@ -1,39 +1,4 @@
 # React Interview Questions & Answers
-
----
-
-<div>
-<p align="center">
-  <a href="https://www.greatfrontend.com/questions/react-interview-questions?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-react&fpr=sudheerj&gnrs=sudheerj">
-    <img src="./images/collab/greatfrontend-react.gif" alt="GreatFrontEnd React Interview Questions" width="100%">
-  </a>
-</p>
-</div>
-
-
----
-
-<div>
-<p align="center">
-  <a href="https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions">
-    <img src="./images/collab/ztm.gif" alt="ZTM Logo" width="100%">
-  </a>
-</p>
-</div>
-
-
----
-
-<div>
-<p align="center">
-  <a href="https://resumeloom.com/?ref=FZ818184">
-    <img src="./images/collab/resumeloom1.png" alt="Resume Loom" width="100%" height="">
-  </a>
-</p>
-</div>
-
----
-
 ### Table of Contents
 
 <details open>
